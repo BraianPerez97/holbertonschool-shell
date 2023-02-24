@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1676658879,,"wq"
+|2,0,1677250885,,"wq"
 :x
 |2,0,1676594485,,"x"
 :WQ
@@ -36,34 +36,46 @@
 |3,1,36,0,1,0,1676658658,"'"
 
 # File marks:
-'0  5  0  ~/holbertonschool-low_level_programming/hello_world/4-puts.c
-|4,48,5,0,1676658879,"~/holbertonschool-low_level_programming/hello_world/4-puts.c"
-'1  2  10  ~/holbertonschool-low_level_programming/hello_world/4-puts.c
-|4,49,2,10,1676658772,"~/holbertonschool-low_level_programming/hello_world/4-puts.c"
+'0  21  0  ~/holbertonschool-low_level_programming/functions_nested_loops/0-putchar.c
+|4,48,21,0,1677250885,"~/holbertonschool-low_level_programming/functions_nested_loops/0-putchar.c"
+'1  5  0  ~/holbertonschool-low_level_programming/hello_world/4-puts.c
+|4,49,5,0,1676658879,"~/holbertonschool-low_level_programming/hello_world/4-puts.c"
 '2  2  10  ~/holbertonschool-low_level_programming/hello_world/4-puts.c
 |4,50,2,10,1676658772,"~/holbertonschool-low_level_programming/hello_world/4-puts.c"
-'3  2  64  ~/holbertonschool-low_level_programming/hello_world/4-puts.c
-|4,51,2,64,1676658409,"~/holbertonschool-low_level_programming/hello_world/4-puts.c"
+'3  2  10  ~/holbertonschool-low_level_programming/hello_world/4-puts.c
+|4,51,2,10,1676658772,"~/holbertonschool-low_level_programming/hello_world/4-puts.c"
 '4  2  64  ~/holbertonschool-low_level_programming/hello_world/4-puts.c
 |4,52,2,64,1676658409,"~/holbertonschool-low_level_programming/hello_world/4-puts.c"
-'5  2  4  ~/holbertonschool-low_level_programming/hello_world/3-name
-|4,53,2,4,1676657944,"~/holbertonschool-low_level_programming/hello_world/3-name"
-'6  2  12  ~/holbertonschool-low_level_programming/hello_world/3-name
-|4,54,2,12,1676657854,"~/holbertonschool-low_level_programming/hello_world/3-name"
-'7  2  13  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,55,2,13,1676657737,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
-'8  2  11  ~/holbertonschool-low_level_programming/hello_world/1-compiler
-|4,56,2,11,1676657603,"~/holbertonschool-low_level_programming/hello_world/1-compiler"
-'9  2  10  ~/holbertonschool-low_level_programming/hello_world/1-compiler
-|4,57,2,10,1676657480,"~/holbertonschool-low_level_programming/hello_world/1-compiler"
+'5  2  64  ~/holbertonschool-low_level_programming/hello_world/4-puts.c
+|4,53,2,64,1676658409,"~/holbertonschool-low_level_programming/hello_world/4-puts.c"
+'6  2  4  ~/holbertonschool-low_level_programming/hello_world/3-name
+|4,54,2,4,1676657944,"~/holbertonschool-low_level_programming/hello_world/3-name"
+'7  2  12  ~/holbertonschool-low_level_programming/hello_world/3-name
+|4,55,2,12,1676657854,"~/holbertonschool-low_level_programming/hello_world/3-name"
+'8  2  13  ~/holbertonschool-low_level_programming/hello_world/2-assembler
+|4,56,2,13,1676657737,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
+'9  2  11  ~/holbertonschool-low_level_programming/hello_world/1-compiler
+|4,57,2,11,1676657603,"~/holbertonschool-low_level_programming/hello_world/1-compiler"
 
 # Jumplist (newest first):
+-'  21  0  ~/holbertonschool-low_level_programming/functions_nested_loops/0-putchar.c
+|4,39,21,0,1677250885,"~/holbertonschool-low_level_programming/functions_nested_loops/0-putchar.c"
+-'  1  0  ~/holbertonschool-low_level_programming/functions_nested_loops/0-putchar.c
+|4,39,1,0,1677250467,"~/holbertonschool-low_level_programming/functions_nested_loops/0-putchar.c"
+-'  5  0  ~/holbertonschool-low_level_programming/hello_world/4-puts.c
+|4,39,5,0,1676658879,"~/holbertonschool-low_level_programming/hello_world/4-puts.c"
 -'  5  0  ~/holbertonschool-low_level_programming/hello_world/4-puts.c
 |4,39,5,0,1676658879,"~/holbertonschool-low_level_programming/hello_world/4-puts.c"
 -'  2  10  ~/holbertonschool-low_level_programming/hello_world/4-puts.c
 |4,39,2,10,1676658824,"~/holbertonschool-low_level_programming/hello_world/4-puts.c"
 -'  2  10  ~/holbertonschool-low_level_programming/hello_world/4-puts.c
+|4,39,2,10,1676658824,"~/holbertonschool-low_level_programming/hello_world/4-puts.c"
+-'  2  10  ~/holbertonschool-low_level_programming/hello_world/4-puts.c
 |4,39,2,10,1676658772,"~/holbertonschool-low_level_programming/hello_world/4-puts.c"
+-'  2  10  ~/holbertonschool-low_level_programming/hello_world/4-puts.c
+|4,39,2,10,1676658772,"~/holbertonschool-low_level_programming/hello_world/4-puts.c"
+-'  2  64  ~/holbertonschool-low_level_programming/hello_world/4-puts.c
+|4,39,2,64,1676658409,"~/holbertonschool-low_level_programming/hello_world/4-puts.c"
 -'  2  64  ~/holbertonschool-low_level_programming/hello_world/4-puts.c
 |4,39,2,64,1676658409,"~/holbertonschool-low_level_programming/hello_world/4-puts.c"
 -'  1  0  ~/holbertonschool-low_level_programming/hello_world/4-puts.c
@@ -72,6 +84,12 @@
 |4,39,1,0,1676658346,"~/holbertonschool-low_level_programming/hello_world/4-puts.c"
 -'  1  0  ~/holbertonschool-low_level_programming/hello_world/4-puts.c
 |4,39,1,0,1676658346,"~/holbertonschool-low_level_programming/hello_world/4-puts.c"
+-'  1  0  ~/holbertonschool-low_level_programming/hello_world/4-puts.c
+|4,39,1,0,1676658346,"~/holbertonschool-low_level_programming/hello_world/4-puts.c"
+-'  1  0  ~/holbertonschool-low_level_programming/hello_world/4-puts.c
+|4,39,1,0,1676658346,"~/holbertonschool-low_level_programming/hello_world/4-puts.c"
+-'  1  0  ~/holbertonschool-low_level_programming/hello_world/4-puts.c
+|4,39,1,0,1676658346,"~/holbertonschool-low_level_programming/hello_world/4-puts.c"
 -'  2  4  ~/holbertonschool-low_level_programming/hello_world/3-name
 |4,39,2,4,1676657944,"~/holbertonschool-low_level_programming/hello_world/3-name"
 -'  2  4  ~/holbertonschool-low_level_programming/hello_world/3-name
@@ -88,6 +106,38 @@
 |4,39,2,4,1676657944,"~/holbertonschool-low_level_programming/hello_world/3-name"
 -'  2  4  ~/holbertonschool-low_level_programming/hello_world/3-name
 |4,39,2,4,1676657944,"~/holbertonschool-low_level_programming/hello_world/3-name"
+-'  2  4  ~/holbertonschool-low_level_programming/hello_world/3-name
+|4,39,2,4,1676657944,"~/holbertonschool-low_level_programming/hello_world/3-name"
+-'  2  4  ~/holbertonschool-low_level_programming/hello_world/3-name
+|4,39,2,4,1676657944,"~/holbertonschool-low_level_programming/hello_world/3-name"
+-'  2  4  ~/holbertonschool-low_level_programming/hello_world/3-name
+|4,39,2,4,1676657944,"~/holbertonschool-low_level_programming/hello_world/3-name"
+-'  2  4  ~/holbertonschool-low_level_programming/hello_world/3-name
+|4,39,2,4,1676657944,"~/holbertonschool-low_level_programming/hello_world/3-name"
+-'  2  4  ~/holbertonschool-low_level_programming/hello_world/3-name
+|4,39,2,4,1676657944,"~/holbertonschool-low_level_programming/hello_world/3-name"
+-'  2  4  ~/holbertonschool-low_level_programming/hello_world/3-name
+|4,39,2,4,1676657944,"~/holbertonschool-low_level_programming/hello_world/3-name"
+-'  2  4  ~/holbertonschool-low_level_programming/hello_world/3-name
+|4,39,2,4,1676657944,"~/holbertonschool-low_level_programming/hello_world/3-name"
+-'  2  4  ~/holbertonschool-low_level_programming/hello_world/3-name
+|4,39,2,4,1676657944,"~/holbertonschool-low_level_programming/hello_world/3-name"
+-'  2  12  ~/holbertonschool-low_level_programming/hello_world/3-name
+|4,39,2,12,1676657854,"~/holbertonschool-low_level_programming/hello_world/3-name"
+-'  2  12  ~/holbertonschool-low_level_programming/hello_world/3-name
+|4,39,2,12,1676657854,"~/holbertonschool-low_level_programming/hello_world/3-name"
+-'  2  12  ~/holbertonschool-low_level_programming/hello_world/3-name
+|4,39,2,12,1676657854,"~/holbertonschool-low_level_programming/hello_world/3-name"
+-'  2  12  ~/holbertonschool-low_level_programming/hello_world/3-name
+|4,39,2,12,1676657854,"~/holbertonschool-low_level_programming/hello_world/3-name"
+-'  2  12  ~/holbertonschool-low_level_programming/hello_world/3-name
+|4,39,2,12,1676657854,"~/holbertonschool-low_level_programming/hello_world/3-name"
+-'  2  12  ~/holbertonschool-low_level_programming/hello_world/3-name
+|4,39,2,12,1676657854,"~/holbertonschool-low_level_programming/hello_world/3-name"
+-'  2  12  ~/holbertonschool-low_level_programming/hello_world/3-name
+|4,39,2,12,1676657854,"~/holbertonschool-low_level_programming/hello_world/3-name"
+-'  2  12  ~/holbertonschool-low_level_programming/hello_world/3-name
+|4,39,2,12,1676657854,"~/holbertonschool-low_level_programming/hello_world/3-name"
 -'  2  12  ~/holbertonschool-low_level_programming/hello_world/3-name
 |4,39,2,12,1676657854,"~/holbertonschool-low_level_programming/hello_world/3-name"
 -'  2  12  ~/holbertonschool-low_level_programming/hello_world/3-name
@@ -136,6 +186,38 @@
 |4,39,1,0,1676657830,"~/holbertonschool-low_level_programming/hello_world/3-name"
 -'  1  0  ~/holbertonschool-low_level_programming/hello_world/3-name
 |4,39,1,0,1676657830,"~/holbertonschool-low_level_programming/hello_world/3-name"
+-'  1  0  ~/holbertonschool-low_level_programming/hello_world/3-name
+|4,39,1,0,1676657830,"~/holbertonschool-low_level_programming/hello_world/3-name"
+-'  1  0  ~/holbertonschool-low_level_programming/hello_world/3-name
+|4,39,1,0,1676657830,"~/holbertonschool-low_level_programming/hello_world/3-name"
+-'  1  0  ~/holbertonschool-low_level_programming/hello_world/3-name
+|4,39,1,0,1676657830,"~/holbertonschool-low_level_programming/hello_world/3-name"
+-'  1  0  ~/holbertonschool-low_level_programming/hello_world/3-name
+|4,39,1,0,1676657830,"~/holbertonschool-low_level_programming/hello_world/3-name"
+-'  1  0  ~/holbertonschool-low_level_programming/hello_world/3-name
+|4,39,1,0,1676657830,"~/holbertonschool-low_level_programming/hello_world/3-name"
+-'  1  0  ~/holbertonschool-low_level_programming/hello_world/3-name
+|4,39,1,0,1676657830,"~/holbertonschool-low_level_programming/hello_world/3-name"
+-'  1  0  ~/holbertonschool-low_level_programming/hello_world/3-name
+|4,39,1,0,1676657830,"~/holbertonschool-low_level_programming/hello_world/3-name"
+-'  1  0  ~/holbertonschool-low_level_programming/hello_world/3-name
+|4,39,1,0,1676657830,"~/holbertonschool-low_level_programming/hello_world/3-name"
+-'  1  0  ~/holbertonschool-low_level_programming/hello_world/3-name
+|4,39,1,0,1676657830,"~/holbertonschool-low_level_programming/hello_world/3-name"
+-'  1  0  ~/holbertonschool-low_level_programming/hello_world/3-name
+|4,39,1,0,1676657830,"~/holbertonschool-low_level_programming/hello_world/3-name"
+-'  1  0  ~/holbertonschool-low_level_programming/hello_world/3-name
+|4,39,1,0,1676657830,"~/holbertonschool-low_level_programming/hello_world/3-name"
+-'  1  0  ~/holbertonschool-low_level_programming/hello_world/3-name
+|4,39,1,0,1676657830,"~/holbertonschool-low_level_programming/hello_world/3-name"
+-'  1  0  ~/holbertonschool-low_level_programming/hello_world/3-name
+|4,39,1,0,1676657830,"~/holbertonschool-low_level_programming/hello_world/3-name"
+-'  1  0  ~/holbertonschool-low_level_programming/hello_world/3-name
+|4,39,1,0,1676657830,"~/holbertonschool-low_level_programming/hello_world/3-name"
+-'  1  0  ~/holbertonschool-low_level_programming/hello_world/3-name
+|4,39,1,0,1676657830,"~/holbertonschool-low_level_programming/hello_world/3-name"
+-'  1  0  ~/holbertonschool-low_level_programming/hello_world/3-name
+|4,39,1,0,1676657830,"~/holbertonschool-low_level_programming/hello_world/3-name"
 -'  2  13  ~/holbertonschool-low_level_programming/hello_world/2-assembler
 |4,39,2,13,1676657737,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
 -'  2  13  ~/holbertonschool-low_level_programming/hello_world/2-assembler
@@ -176,90 +258,15 @@
 |4,39,2,13,1676657737,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
 -'  2  13  ~/holbertonschool-low_level_programming/hello_world/2-assembler
 |4,39,2,13,1676657737,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
--'  2  13  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,39,2,13,1676657737,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
--'  2  13  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,39,2,13,1676657737,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
--'  2  13  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,39,2,13,1676657737,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
--'  2  13  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,39,2,13,1676657737,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
--'  2  13  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,39,2,13,1676657737,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
--'  2  13  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,39,2,13,1676657737,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
--'  2  13  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,39,2,13,1676657737,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
--'  2  13  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,39,2,13,1676657737,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
--'  2  13  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,39,2,13,1676657737,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
--'  2  13  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,39,2,13,1676657737,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
--'  2  13  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,39,2,13,1676657737,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
--'  2  13  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,39,2,13,1676657737,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
--'  1  0  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,39,1,0,1676657683,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
--'  1  0  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,39,1,0,1676657683,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
--'  1  0  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,39,1,0,1676657683,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
--'  1  0  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,39,1,0,1676657683,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
--'  1  0  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,39,1,0,1676657683,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
--'  1  0  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,39,1,0,1676657683,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
--'  1  0  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,39,1,0,1676657683,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
--'  1  0  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,39,1,0,1676657683,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
--'  1  0  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,39,1,0,1676657683,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
--'  1  0  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,39,1,0,1676657683,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
--'  1  0  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,39,1,0,1676657683,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
--'  1  0  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,39,1,0,1676657683,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
--'  1  0  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,39,1,0,1676657683,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
--'  1  0  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,39,1,0,1676657683,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
--'  1  0  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,39,1,0,1676657683,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
--'  1  0  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,39,1,0,1676657683,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
--'  1  0  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,39,1,0,1676657683,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
--'  1  0  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,39,1,0,1676657683,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
--'  1  0  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,39,1,0,1676657683,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
--'  1  0  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,39,1,0,1676657683,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
--'  1  0  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,39,1,0,1676657683,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
--'  1  0  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,39,1,0,1676657683,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
--'  1  0  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,39,1,0,1676657683,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
--'  1  0  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,39,1,0,1676657683,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
--'  1  0  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,39,1,0,1676657683,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
--'  1  0  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,39,1,0,1676657683,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
--'  1  0  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,39,1,0,1676657683,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
--'  1  0  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,39,1,0,1676657683,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
--'  1  0  ~/holbertonschool-low_level_programming/hello_world/2-assembler
-|4,39,1,0,1676657683,"~/holbertonschool-low_level_programming/hello_world/2-assembler"
 
 # History of marks within files (newest to oldest):
+
+> ~/holbertonschool-low_level_programming/functions_nested_loops/0-putchar.c
+	*	1677250884	0
+	"	21	0
+	^	21	1
+	.	21	0
+	+	21	0
 
 > ~/holbertonschool-low_level_programming/hello_world/4-puts.c
 	*	1676658879	0
